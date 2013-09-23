@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dir>  
+    <item>  
+        <type>folder</type>  
+        <name>java</name>  
+        <size>35 MB</size> 
+ 		<url>http://192.168.2.2:8089/java/</url>
+		<modifyDate>Feb 15</modifyDate>
+		<access>private</access>
+    </item>  
+    <item>  
+        <type>folder</type>  
+        <name>java2</name>  
+        <size>35 MB</size> 
+ 		<url>http://192.168.2.2:8089/java2/</url>
+		<modifyDate>Feb 15</modifyDate>
+		<access>public</access>  
+    </item>  
+    <item>  
+        <type>txt</type>  
+        <name>A.txt</name>  
+        <size>35 MB</size> 
+ 		<url>http://192.168.2.2:8089/A.txt</url>
+		<modifyDate>Feb 15</modifyDate>
+		<access>private</access>  
+    </item> 
+	<item>  
+        <type>pdf</type>  
+        <name>cqx.pdf</name>  
+        <size>35 MB</size> 
+ 		<url>http://192.168.2.2:8089/cqx.pdf</url>
+		<modifyDate>Feb 15</modifyDate>
+		<access>private</access>  
+    </item> 
+</Dir>
